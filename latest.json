@@ -1,0 +1,17 @@
+{
+  "version": "1.1.0",
+  "notes": [
+    "Home screen with all your animations",
+    "Animations save on their own when you leave them",
+    "Update notice when a new version is out"
+  ],
+  "windows": {
+    "free": "https://github.com/blexusblexus-crypto/glooms-animator/releases/download/v1.1.0/GloomsAnimator-Setup-1.1.0.exe",
+    "pro": "https://github.com/blexusblexus-crypto/glooms-animator/releases/download/v1.1.0/GloomsAnimatorPro-Setup-1.1.0.exe"
+  },
+  "android": {
+    "free": "https://github.com/blexusblexus-crypto/glooms-animator/releases/download/v1.1.0/GloomsAnimator-1.1.apk",
+    "pro": "https://github.com/blexusblexus-crypto/glooms-animator/releases/download/v1.1.0/GloomsAnimatorPro-1.1.apk"
+  },
+  "page": "https://github.com/blexusblexus-crypto/glooms-animator/releases/latest"
+}
