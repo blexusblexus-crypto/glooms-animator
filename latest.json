@@ -1,17 +1,19 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "notes": [
-    "Home screen with all your animations",
-    "Animations save on their own when you leave them",
-    "Update notice when a new version is out"
+    "New pencil and brush: smooth lines that follow your hand exactly",
+    "Animate like FlipaClip: drawing or moving on a frame keys it automatically, plus a frame strip with add, duplicate and delete",
+    "Onion skin is on by default",
+    "Rulers, guides and a straight / ellipse drawing ruler",
+    "Pro: connect Claude through MCP (Assistant settings → Connect to Claude desktop)"
   ],
   "windows": {
-    "free": "https://github.com/blexusblexus-crypto/glooms-animator/releases/download/v1.1.0/GloomsAnimator-Setup-1.1.0.exe",
-    "pro": "https://github.com/blexusblexus-crypto/glooms-animator/releases/download/v1.1.0/GloomsAnimatorPro-Setup-1.1.0.exe"
+    "free": "https://github.com/blexusblexus-crypto/glooms-animator/releases/download/v1.2.0/GloomsAnimator-Setup-1.2.0.exe",
+    "pro": "https://github.com/blexusblexus-crypto/glooms-animator/releases/download/v1.2.0/GloomsAnimatorPro-Setup-1.2.0.exe"
   },
   "android": {
-    "free": "https://github.com/blexusblexus-crypto/glooms-animator/releases/download/v1.1.0/GloomsAnimator-1.1.apk",
-    "pro": "https://github.com/blexusblexus-crypto/glooms-animator/releases/download/v1.1.0/GloomsAnimatorPro-1.1.apk"
+    "free": "https://github.com/blexusblexus-crypto/glooms-animator/releases/download/v1.2.0/GloomsAnimator-1.2.apk",
+    "pro": "https://github.com/blexusblexus-crypto/glooms-animator/releases/download/v1.2.0/GloomsAnimatorPro-1.2.apk"
   },
   "page": "https://github.com/blexusblexus-crypto/glooms-animator/releases/latest"
 }
